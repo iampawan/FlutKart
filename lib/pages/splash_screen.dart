@@ -1,8 +1,8 @@
 import 'dart:async';
 
 import 'package:flutter/material.dart';
-import 'package:fluttertry/utils/flutkart.dart';
-import 'package:fluttertry/utils/my_navigator.dart';
+import 'package:flutkart/utils/flutkart.dart';
+import 'package:flutkart/utils/my_navigator.dart';
 
 class SplashScreen extends StatefulWidget {
   @override
